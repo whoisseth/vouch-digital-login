@@ -1,7 +1,7 @@
 import React from 'react'
 import LoginForm from '../components/LoginForm'
 import Navbar from '../components/Navbar'
-import heroImg from '.././public/heroImg.jpg'
+import heroImg from '.././public/heroImg.webp'
 import Image from 'next/image'
 export default function index() {
   return (
